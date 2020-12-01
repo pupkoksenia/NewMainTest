@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f76e9d7d-09d9-4dbf-93ab-5b623a12e0dd" name="Default Changelist" comment="....">
+      <change beforePath="$PROJECT_DIR$/out/production/MainTest/com/bsu/by/Aircraft.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MainTest/com/bsu/by/Aircraft.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MainTest/com/bsu/by/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MainTest/com/bsu/by/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MainTest/com/bsu/by/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MainTest/com/bsu/by/User.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jx112bwo2Z6t52WmrZdIzC6mJz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\MainTest\src\main\java\com\bsu\by" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bsu.by.Main" />
+      <module name="MainTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bsu.by.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f76e9d7d-09d9-4dbf-93ab-5b623a12e0dd" name="Default Changelist" comment="" />
+      <created>1604730711565</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604730711565</updated>
+      <workItem from="1604730712715" duration="7433000" />
+      <workItem from="1604754871978" duration="4031000" />
+      <workItem from="1604764894334" duration="14299000" />
+      <workItem from="1604817800186" duration="237000" />
+      <workItem from="1604829397881" duration="646000" />
+      <workItem from="1605262876206" duration="10367000" />
+      <workItem from="1605273567729" duration="514000" />
+      <workItem from="1605444239963" duration="274000" />
+      <workItem from="1605444552314" duration="36000" />
+      <workItem from="1605453621297" duration="852000" />
+      <workItem from="1606028161604" duration="1498000" />
+      <workItem from="1606558873040" duration="1152000" />
+      <workItem from="1606720029725" duration="5496000" />
+    </task>
+    <task id="LOCAL-00001" summary="/">
+      <created>1605273309623</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605273309623</updated>
+    </task>
+    <task id="LOCAL-00002" summary=".">
+      <created>1605273604407</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605273604407</updated>
+    </task>
+    <task id="LOCAL-00003" summary="/.">
+      <created>1605273720844</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605273720844</updated>
+    </task>
+    <task id="LOCAL-00004" summary="....">
+      <created>1606739081034</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1606739081034</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="/" />
+    <MESSAGE value="." />
+    <MESSAGE value="/." />
+    <MESSAGE value="...." />
+    <option name="LAST_COMMIT_MESSAGE" value="...." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Template" timestamp="1604732296304">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Template/0.0.1536.824@0.0.1536.824" timestamp="1604732296304" />
+    <state x="718" y="117" key="#com.intellij.ide.util.MemberChooser" timestamp="1606738934918">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="718" y="117" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1606738934918" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605263782534">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1605263782534" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1606560084741">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1606560084741" />
+    <state width="746" height="210" key="GridCell.Tab.0.bottom" timestamp="1606750742466">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606750742466" />
+    <state width="746" height="210" key="GridCell.Tab.0.center" timestamp="1606750742466">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1606750742466" />
+    <state width="746" height="210" key="GridCell.Tab.0.left" timestamp="1606750742466">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1606750742466" />
+    <state width="746" height="210" key="GridCell.Tab.0.right" timestamp="1606750742466">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606750742466" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1606739616430">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1606739616430" />
+    <state x="209" y="33" key="new project wizard" timestamp="1606558919697">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="33" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1606558919697" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1604757364672">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1604757364672" />
+  </component>
+</project>
